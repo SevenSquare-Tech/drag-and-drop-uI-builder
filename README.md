@@ -4,6 +4,8 @@
 
 DragNDrop is a work-in-progress Flutter UI builder designed to make UI creation a breeze. This project aims to simplify the process of designing stunning user interfaces through an intuitive drag-and-drop interface.
 
+[Here's a Step-by-Step Guide to Create Drag-and-Drop Layout Builder in Flutter.](https://www.sevensquaretech.com/flutter-drag-drop-layout-builder-with-github-code/)
+
 ## Features
 
 - **Intuitive Drag-and-Drop Interface:** Easily arrange and design UI components by simply dragging and dropping them onto the canvas.
